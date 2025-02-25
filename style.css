@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+.center{
+  margin: auto;
+  width: 60%;
+  border: 3px;
+  padding: 10px;
+
+
+}

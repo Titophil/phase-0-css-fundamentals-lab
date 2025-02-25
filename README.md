@@ -102,7 +102,7 @@ the browser.
 
 ### What We Want
 
-![complete lab](https://curriculum-content.s3.amazonaws.com/fewds-css/css-fundamentals-lab-complete.png)
+![complete lab](https://curriculum-conten`t.s3.amazonaws.com/fewds-css/css-fundamentals-lab-complete.png)
 
 ### Deliverables
 
